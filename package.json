@@ -1,0 +1,10 @@
+{
+  "name": "github-codespaces-sandbox",
+  "version": "0.0.1",
+  "description": "GitHub Codespacesだけで何処までいけるのかチャレンジ",
+  "main": "index.js",
+  "repository": "https://github.com/gatchan0807/github-codespaces-sandbox",
+  "author": "がっちゃん <yuki.dolphin.koga@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
