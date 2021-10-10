@@ -1,0 +1,2 @@
+# github-codespaces-sandbox
+iPadの購入を検討してて、Codespacesでどこまで開発できるのか試すためにゼロからブラウザだけでコードを書き始めるリポジトリ（Webアプリケーションを試してみる）
